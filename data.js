@@ -1,6 +1,8 @@
 let users = [
   { id: "1", name: "Jane Doe", bio: "Not Tarzan's Wife, another Jane" },
   { id: "2", name: "Hank Doe", bio: "Tarzan's Brother" },
+  { id: "3", name: "Dan Doe", bio: "Tarzan's Brother" },
+  { id: "4", name: "Tom Doe", bio: "Tarzan's Brother" },
 ];
 
 function getUsers() {
